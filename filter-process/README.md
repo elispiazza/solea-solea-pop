@@ -1,1 +1,1 @@
-This folder collects the functions for the filtering process
+This folder contains the functions for the filtering process
